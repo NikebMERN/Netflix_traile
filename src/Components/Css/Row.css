@@ -1,0 +1,7 @@
+.rowPosterLarge {
+    max-height: 250px;
+}
+
+.rowPosterLarge:hover {
+    transform: scale(1.12);
+}
